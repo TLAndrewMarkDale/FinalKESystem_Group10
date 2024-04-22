@@ -1,0 +1,32 @@
+AIDI2003   
+Assignment #3: Business Case (Individual Assignment)  
+STUDENT INSTRUCTIONS  
+
+Submission  
+Instructions To be submitted via DC Connect  
+Value 10% 
+Due Date See DC Connect  
+
+Assignment Type: Individual  
+Format: Essay (submitted in Word or PDF format), 2700 words (mention word count 
+on the cover page)  
+Content: Utilizing all the information collected and developed for the project work, 
+each student is expected to write a detailed business case. This business case should 
+articulate the rationale, feasibility, and potential impact of the AI-driven solution your 
+group has proposed.  
+Key Components of the Business Case Essay:  
+• Briefly describe the healthcare issue your AI solution addresses.  
+• Analyze the current market demand for your solution and evaluate the competitive landscape.  
+• Provide a detailed description of your proposed AI solution, including technological aspects and 
+how it addresses the identified healthcare issue.  
+• Discuss the technical feasibility of your solution, including any technological innovations, required resources, and implementation challenges.  
+• Present a detailed cost-benefit analysis, highlighting the expected return on investment (ROI) and 
+the solution's impact on healthcare delivery and patient outcomes.  
+• Explain how your solution aligns with strategic goals within the healthcare sector and addresses existing challenges.  
+• Address how your solution adheres to ethical AI principles, including considerations for bias, privacy, and data security.  
+• Identify potential risks associated with your solution and propose mitigation strategies.  
+Evaluation Criteria – 20 Marks: 
+• Depth and accuracy of market and financial analysis  
+• Clarity in demonstrating strategic alignment and benefits  
+• Comprehensive identification and mitigation of risks  
+• Adherence to ethical AI principles and considerations for bias, privacy, and data security
